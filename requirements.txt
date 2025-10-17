@@ -1,0 +1,14 @@
+# Dependências do Sistema de Controle de Clientes - Oficina
+# Este projeto usa apenas bibliotecas padrão do Python
+
+# Python 3.7 ou superior é recomendado
+# As seguintes bibliotecas são usadas (todas fazem parte da biblioteca padrão):
+# - tkinter (interface gráfica)
+# - json (manipulação de dados JSON)
+# - datetime (manipulação de datas)
+# - os (operações do sistema operacional)
+# - re (expressões regulares)
+# - typing (type hints)
+
+# Não há dependências externas para instalar
+# Para executar o sistema, simplesmente execute: python main.py
